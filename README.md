@@ -1,2 +1,3 @@
+codemagic.yaml
 # kezmos
 none
